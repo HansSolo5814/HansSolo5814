@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @HansSolo5814
+- 👀 I’m interested in starting up a bitcoin solo computer
+- 🌱 I’m currently learning how bitcoin mining works on a laptop
+- 💞️ I’m looking to collaborate on how to download the "Bitcoin Core" to my new Dell Laptop that is blocking me from executing the "bitcoin 0.21.0 win64-setup"
+- - - The Windows operating system blocks me from running the ...setup for my protection.  It tells me that the adminstrator (me) has blocked me from running this app
+- - - and to contact the administrator (me) for permission?  The laptop is running: Windows 10 Home, version: 20H2, OS build: 19042.685, Experience: Windows Fieature
+- - - Experience Pack 120.2212.551.0
+- 📫 How to reach me shassett5814@gmail.com
+- - - THANKS!!
